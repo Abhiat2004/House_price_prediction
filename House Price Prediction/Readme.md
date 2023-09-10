@@ -1,4 +1,4 @@
-# House_price_prediction
+# House price prediction
 ## Aim
 To create a Machine Learning model that predicts the price of the house by taking the features like land size, house size, nnumber of rooms, number of bath rooms, distance to school,super market, and also the availability of parking spot, water front, swimmijng pool e.t.c
 ## Approach
