@@ -4,13 +4,13 @@ To create a Machine Learning model that predicts the price of the house by takin
 ## Approach
 At first we import the required libraries for creating a model using linear regression which will suits the best for the dataset.
 
-Next we clean the data by encoding the catogorical data into numerics.
+Next we make sure that we don't have any missing values in dataset and then clean the data by encoding the catogorical data into numerics.
 
 And then we split the test and training data.
 
 Next we do the feature scaling for the data for better results.
 
-Then we train the model with training data.
+Then we train the Linear regression model with training data.
 
 Then we se the predictions and check them with the original data.
 
